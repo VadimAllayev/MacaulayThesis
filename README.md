@@ -1,7 +1,9 @@
+# What is this?
 As part of Macaulay at Queens College, I worked on a thesis and simulation.
+The thesis explores the prospect of a heterogeneous, decentralized peer-to-peer network architecture.
 The simulation solves a multi-objective optimization problem, optimizing for reliability, energy efficiency, and latency in a peer-to-peer decentralized network.
 
-ABSTRACT:
+## Abstract
 Internet of Intelligent Things (IoIT), an emerging field, combines the utility of Internet of Things (IoT) devices with the innovation of embedded AI algorithms.
 However, it does not come without challenges, and struggles regarding available computing resources, energy supply, and storage limitations.
 In particular, many impediments to IoIT are linked to the energy-efficient deployment of machine learning (ML)/deep learning (DL) models in embedded devices.
